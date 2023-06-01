@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Ivey (jiveyguy)</h1>
-<h3 align="center">A full-stack developer focusing on embedded systems from Texas currently living in New Mexico.</h3>
+<h3 align="center">A full-stack developer focusing on embedded systems from Texas currently studying in New Mexico and working in San Diego.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiveyguy&label=Profile%20views&color=0e75b6&style=flat" alt="jiveyguy" /> </p>
 
